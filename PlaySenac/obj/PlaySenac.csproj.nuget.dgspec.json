@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rroliveira.FSPOA\\source\\repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj": {}
+    "C:\\Users\\sandr\\Source\\Repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rroliveira.FSPOA\\source\\repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj": {
+    "C:\\Users\\sandr\\Source\\Repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rroliveira.FSPOA\\source\\repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj",
+        "projectUniqueName": "C:\\Users\\sandr\\Source\\Repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj",
         "projectName": "PlaySenac",
-        "projectPath": "C:\\Users\\rroliveira.FSPOA\\source\\repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj",
-        "packagesPath": "C:\\Users\\rroliveira.FSPOA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rroliveira.FSPOA\\source\\repos\\PlaySenac\\PlaySenac\\obj\\",
+        "projectPath": "C:\\Users\\sandr\\Source\\Repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj",
+        "packagesPath": "C:\\Users\\sandr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sandr\\Source\\Repos\\PlaySenac\\PlaySenac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rroliveira.FSPOA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -74,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
