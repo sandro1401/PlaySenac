@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sandr\\Source\\Repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj": {}
+    "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sandr\\Source\\Repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj": {
+    "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sandr\\Source\\Repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj",
+        "projectUniqueName": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj",
         "projectName": "PlaySenac",
-        "projectPath": "C:\\Users\\sandr\\Source\\Repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj",
+        "projectPath": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\PlaySenac.csproj",
         "packagesPath": "C:\\Users\\sandr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sandr\\Source\\Repos\\PlaySenac\\PlaySenac\\obj\\",
+        "outputPath": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[6.0.29, )"
             },
