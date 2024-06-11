@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A20F0B-B4FA-4A1D-850C-410377D04BA6}|PlaySenac\\PlaySenac.csproj|c:\\users\\sandr\\source\\repos\\playsenac\\playsenac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6A20F0B-B4FA-4A1D-850C-410377D04BA6}|PlaySenac\\PlaySenac.csproj|solutionrelative:playsenac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A20F0B-B4FA-4A1D-850C-410377D04BA6}|PlaySenac\\PlaySenac.csproj|c:\\users\\sandr\\source\\repos\\playsenac\\playsenac\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6A20F0B-B4FA-4A1D-850C-410377D04BA6}|PlaySenac\\PlaySenac.csproj|solutionrelative:playsenac\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A20F0B-B4FA-4A1D-850C-410377D04BA6}|PlaySenac\\PlaySenac.csproj|c:\\users\\sandr\\source\\repos\\playsenac\\playsenac\\models\\viewmodels\\sellerformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6A20F0B-B4FA-4A1D-850C-410377D04BA6}|PlaySenac\\PlaySenac.csproj|solutionrelative:playsenac\\models\\viewmodels\\sellerformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A20F0B-B4FA-4A1D-850C-410377D04BA6}|PlaySenac\\PlaySenac.csproj|c:\\users\\sandr\\source\\repos\\playsenac\\playsenac\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6A20F0B-B4FA-4A1D-850C-410377D04BA6}|PlaySenac\\PlaySenac.csproj|solutionrelative:playsenac\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A20F0B-B4FA-4A1D-850C-410377D04BA6}|PlaySenac\\PlaySenac.csproj|c:\\users\\sandr\\source\\repos\\playsenac\\playsenac\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6A20F0B-B4FA-4A1D-850C-410377D04BA6}|PlaySenac\\PlaySenac.csproj|solutionrelative:playsenac\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,69 +9,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PlaySenac\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PlaySenac\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T02:44:46.834Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\Views\\Sellers\\Details.cshtml",
-              "RelativeDocumentMoniker": "PlaySenac\\Views\\Sellers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\Views\\Sellers\\Details.cshtml",
-              "RelativeToolTip": "PlaySenac\\Views\\Sellers\\Details.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCcAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T02:43:15.877Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SellerFormViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "RelativeDocumentMoniker": "PlaySenac\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "ToolTip": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "RelativeToolTip": "PlaySenac\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:43:15.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\Views\\Sellers\\Create.cshtml",
-              "RelativeDocumentMoniker": "PlaySenac\\Views\\Sellers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\Views\\Sellers\\Create.cshtml",
-              "RelativeToolTip": "PlaySenac\\Views\\Sellers\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T02:43:15.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SellersController.cs",
-              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\Controllers\\SellersController.cs",
-              "RelativeDocumentMoniker": "PlaySenac\\Controllers\\SellersController.cs",
-              "ToolTip": "C:\\Users\\sandr\\source\\repos\\PlaySenac\\PlaySenac\\Controllers\\SellersController.cs",
-              "RelativeToolTip": "PlaySenac\\Controllers\\SellersController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAIwD0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:43:15.926Z"
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             }
           ]
         }
