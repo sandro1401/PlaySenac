@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlaySenac")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dddca680fd7af40e8d37d7c8fb4d99aea4d21dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06ea6f9dc67198fb8f0799b04b71bfdebab369d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlaySenac")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlaySenac")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
